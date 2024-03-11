@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/nfsplugin:v4.4.0
+FROM k8s.gcr.io/sig-storage/nfsplugin:v4.4.0
